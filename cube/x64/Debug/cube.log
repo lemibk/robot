@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\the projects\graphics\cube\cube\main.cpp(23,1): error C2059: syntax error: '/'
+E:\the projects\graphics\cube\cube\main.cpp(24,33): error C2143: syntax error: missing ';' before '{'
+E:\the projects\graphics\cube\cube\main.cpp(24,33): error C2447: '{': missing function header (old-style formal list?)
